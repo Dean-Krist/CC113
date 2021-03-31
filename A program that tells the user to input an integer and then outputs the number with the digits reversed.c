@@ -5,7 +5,7 @@ int main()
     int x, y = 0, z;
 
     printf("Input any integer: ");
-    z = scanf("%d", &x);            //The integer or the data that is about to be inputted will be automatically be equall to Z
+    z = scanf("%d", &x);            //The integer or the data that is about to be inputted will be automatically be equal to Z
 
 
 
